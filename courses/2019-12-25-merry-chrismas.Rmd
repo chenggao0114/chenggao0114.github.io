@@ -1,0 +1,13 @@
+---
+title: Merry Chrismas
+author: Cheng Gao
+date: '2019-12-25'
+slug: merry-chrismas
+categories: []
+tags: []
+---
+Merry Chrismas!
+
+祝大家圣诞快乐！
+
+[测试用post]

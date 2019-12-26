@@ -1,0 +1,32 @@
+---
+date: "2019-12-25T21:48:51-07:00"
+title: Main Courses
+output:
+  pdf_document: 
+    latex_engine: xelatex
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## UC Berkeley - Fall 2019 EAP Exchange
+##### STAT 157 - Causal Inference Seminar (Favorite)
+A systematic introduction to causal inference and observational studies.
+
+##### MATH C298A - Probability Theory
+A PhD-level probability course.
+
+##### CS 61B - Data Structures
+A CS basic course.
+
+## Fudan University
+Real Analysis (honor-level)
+
+Econometrics
+
+Basic Mathematical Statistics I/II; Mathematical Statistics
+
+Functional Analysis (upcoming semester)
+
+Stochastic Analysis (upcoming semester)
+
+Deep Learning (upcoming semester)

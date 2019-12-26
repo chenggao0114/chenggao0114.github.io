@@ -1,0 +1,14 @@
+---
+title: Merry Chrismas
+author: Cheng Gao
+date: '2019-12-25'
+slug: merry-chrismas
+categories: []
+tags: []
+output:
+  pdf_document: 
+    latex_engine: xelatex
+---
+Merry Chrismas!
+
+祝大家圣诞快乐！
